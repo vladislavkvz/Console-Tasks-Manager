@@ -1,0 +1,30 @@
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Vladislav Kavazov\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\02. Tue  05\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\02. Tue  05\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
